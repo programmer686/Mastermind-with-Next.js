@@ -1,0 +1,12 @@
+.startscreen__body {
+    width: 100vw;
+    border: 1px solid blue;
+}
+
+.startscreen__play_button {
+    padding: 20px 60px;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 2px 2px 5px black;
+
+}

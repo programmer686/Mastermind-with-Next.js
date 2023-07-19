@@ -1,0 +1,8 @@
+.PastPlay__board {
+    width: 400px;
+    border-radius: 5px;
+    
+    min-height: 200px;
+    background: rgb(173, 173, 173);
+}
+
